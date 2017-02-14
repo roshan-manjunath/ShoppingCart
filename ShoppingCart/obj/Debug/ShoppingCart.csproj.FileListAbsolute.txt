@@ -1,0 +1,24 @@
+C:\Users\rhana\Downloads\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll.config
+C:\Users\rhana\Downloads\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll
+C:\Users\rhana\Downloads\ShoppingCart\ShoppingCart\bin\ShoppingCart.pdb
+C:\Users\rhana\Downloads\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\rhana\Downloads\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\rhana\Downloads\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
+D:\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll.config
+D:\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll
+D:\ShoppingCart\ShoppingCart\bin\ShoppingCart.pdb
+D:\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+D:\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+D:\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\rhana\Desktop\to be sent\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll.config
+C:\Users\rhana\Desktop\to be sent\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll
+C:\Users\rhana\Desktop\to be sent\ShoppingCart\ShoppingCart\bin\ShoppingCart.pdb
+C:\Users\rhana\Desktop\to be sent\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\rhana\Desktop\to be sent\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\rhana\Desktop\to be sent\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\rhana\Desktop\HTML JS and CSS based mini projects\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll.config
+C:\Users\rhana\Desktop\HTML JS and CSS based mini projects\ShoppingCart\ShoppingCart\bin\ShoppingCart.dll
+C:\Users\rhana\Desktop\HTML JS and CSS based mini projects\ShoppingCart\ShoppingCart\bin\ShoppingCart.pdb
+C:\Users\rhana\Desktop\HTML JS and CSS based mini projects\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.csprojResolveAssemblyReference.cache
+C:\Users\rhana\Desktop\HTML JS and CSS based mini projects\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\rhana\Desktop\HTML JS and CSS based mini projects\ShoppingCart\ShoppingCart\obj\Debug\ShoppingCart.pdb
